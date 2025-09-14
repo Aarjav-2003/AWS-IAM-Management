@@ -1,0 +1,7 @@
+users:
+  - username: Aarjav
+    roles: [AmazonEC2FullAccess]
+  - username: Saanvi
+    roles: [AmazonS3ReadOnlyAccess]
+  - username: Yug
+    roles: [AmazonEC2FullAccess, AmazonS3ReadOnlyAccess]
